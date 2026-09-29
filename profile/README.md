@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./logo.png" width="280">
+<img src="../logo.png" width="280">
 
 ### **Understand deeply. Build boldly. Stay human.**
 
